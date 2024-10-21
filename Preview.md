@@ -11,7 +11,7 @@
 <br/><br/>
 
 ## 기능 소개 - 로그인
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
+<a href="https://github.com/WoongE12/exFinder/blob/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
 
 <table>
   <tr align="center">
@@ -38,7 +38,7 @@
 <br/><br/>
 
 ## 기능 소개 - 커뮤니티
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
+<a href="https://github.com/WoongE12/exFinder/blob/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
 <table>
     <tr align="center">
         <td>게시글</td>
@@ -60,7 +60,7 @@
 <br/><br/>
 
 ## 기능 소개 - 메인페이지
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
+<a href="https://github.com/WoongE12/exFinder/blob/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
 메인페이지 | 
 :-----:|
 ![mainPage](https://github.com/user-attachments/assets/1e2d049c-b7b4-42a5-91b0-c4610d494099) |
@@ -84,7 +84,7 @@
 
 
 ## 기능 소개 - 상세페이지
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
+<a href="https://github.com/WoongE12/exFinder/blob/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
 상세페이지 | 
 :-----:|
 ![detail](https://github.com/user-attachments/assets/efe7b22a-aa0e-4e8a-a50e-d8efb9072c1f) |
@@ -97,7 +97,7 @@
 <br/><br/>
 
 ## 기능 소개 - 마이페이지
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
+<a href="https://github.com/WoongE12/exFinder/blob/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
 <table>
     <tr align="center">
         <td>내정보 관리</td>
@@ -125,7 +125,7 @@
 <br/><br/>
 
 ## 기능 소개 - 관리자페이지
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
+<a href="https://github.com/WoongE12/exFinder/blob/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
 <table>
     <tr align="center">
         <td>회원관리</td>
@@ -153,7 +153,7 @@
 <br/><br/>
 
 ## 기능 소개 - 실시간 환율 알림
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
+<a href="https://github.com/WoongE12/exFinder/blob/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">README로 돌아가기</a>
 <table>
     <tr align="center">
         <td colspan="2">환율 설정</td>
